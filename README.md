@@ -4,7 +4,7 @@ Summary:
 
 Authors: David Kes, Stephen Hsu
 
-URL to Visualization: -link-
+URL to Visualization: https://medium.com/@davidkes93/269544c95b14
 
 The following repo contains the code and visualizations of our project for MSAN 622 Data Visualizations. Specifically:
 
