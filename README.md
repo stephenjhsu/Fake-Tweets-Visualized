@@ -17,6 +17,6 @@ code - folder of the user interface containing:
 	Final_graphs.ipynb - the notebook of our bar, scatter, LDA, and time series graphs
 
 
-data - zip file of the data containing users and data
+finalprojdata - zip file of the data containing users and data
 
-presentation.ppf - presentation slides of the Twitter Fake Tweet Project
+presentation.pptx - presentation slides of the Twitter Fake Tweet Project
