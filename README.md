@@ -10,12 +10,9 @@ Link to the data: https://www.nbcnews.com/tech/social-media/now-available-more-2
 
 The following repo contains the code and visualizations of our project for MSAN 622 Data Visualizations. Specifically:
 
-	code - folder of the user interface containing:
-
-		condensed-processing.ipynb - the data processing used in order to clean, feature engineer, and prepare the data for visualization
+	condensed-processing.ipynb - the data processing used in order to clean, feature engineer, and prepare the data for visualization
 	
-		Final_graphs.ipynb - the notebook of our bar, scatter, LDA, and time series graphs
-
+	Final_graphs.ipynb - the notebook of our bar, scatter, LDA, and time series graphs
 
 	finalprojdata - zip file of the data containing users and data
 
