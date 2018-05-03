@@ -4,7 +4,7 @@ Summary: Visualizing 200,000+ Tweets from Confirmed Fake Russian Accounts
 
 Authors: David Kes, Stephen Hsu
 
-URL to Visualization: https://medium.com/@davidkes93/269544c95b14
+URL to Visualization: https://medium.com/@shsu14/russian-fake-tweets-visualized-6f73f767695
 
 Link to the data: https://www.nbcnews.com/tech/social-media/now-available-more-200-000-deleted-russian-troll-tweets-n844731
 
